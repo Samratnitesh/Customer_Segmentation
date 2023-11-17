@@ -1,1 +1,1 @@
-A unsupervised machine learning project i.e Customer Segmentation with K means algorithm
+An unsupervised machine learning project i.e Customer Segmentation with K means algorithm
