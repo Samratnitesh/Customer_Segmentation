@@ -1,7 +1,3 @@
-I see your project is on **Customer Segmentation**. Here's a draft README file for your GitHub repository:
-
----
-
 # Customer Segmentation
 
 ## Overview
@@ -70,14 +66,6 @@ These segments can be used by businesses to better understand customer needs and
 - Including more customer attributes for better segmentation accuracy.
 - Integrating customer segmentation results into a recommendation system for product suggestions.
 
-## Contributing
-
-If you'd like to contribute, feel free to create a pull request or open an issue with suggestions.
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Let me know if you'd like to add anything specific!
