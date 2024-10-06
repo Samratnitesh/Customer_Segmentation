@@ -37,13 +37,7 @@ The dataset should be cleaned and pre-processed to ensure better performance of 
    git clone https://github.com/Samratnitesh/Customer_Segmentation.git
    cd Customer_Segmentation
    ```
-
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the Jupyter Notebook to analyze and segment customers.
+2. Run the Jupyter Notebook to analyze and segment customers.
 
 ## How to Use
 
